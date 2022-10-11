@@ -1,0 +1,6 @@
+# load zsh config files
+source $HOME/.zsh/oh-my-zsh.zsh
+source $HOME/.zsh/alias.zsh
+source $HOME/.zsh/configs.zsh
+source $HOME/.zsh/functions.zsh
+
