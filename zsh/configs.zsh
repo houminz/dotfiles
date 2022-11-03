@@ -19,6 +19,7 @@ setopt APPEND_HISTORY   # adds history
 
 # ssh-agent
 eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
 
 # set various options
 setopt AUTO_CD
